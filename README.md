@@ -73,18 +73,6 @@ Start the development server
 npm run dev
 ```
 
----
-
-## 📸 Screenshots
-
-Add screenshots of your project here.
-
-Example:
-
-```
-/screenshots/home.png
-/screenshots/features.png
-```
 
 ---
 
@@ -112,19 +100,3 @@ This project was developed to improve my skills in:
 - GSAP animations
 - Three.js
 - Responsive UI development
-
----
-
-## 🙏 Credits
-
-This project is based on the open-source repository created by **sanidhyy**.
-
-I have customized and modified this version for learning and portfolio purposes.
-
-Original inspiration: **Zentry.com**
-
----
-
-## 📄 License
-
-Please refer to the original project's license before redistributing this project.
